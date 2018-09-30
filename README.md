@@ -1,2 +1,2 @@
 # sushi
-suhmitha git wrkshop
+sushmitha git wrkshop
